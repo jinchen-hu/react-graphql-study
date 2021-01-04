@@ -4,3 +4,4 @@
 2. seasons
 3. pics
 4. videos
+5. video-hooks
