@@ -5,6 +5,9 @@
 3. pics
 4. videos
    * use YouTube API to fetch a list videos based on the users' input
-5. video-hooks
+5. widget
+   * react hooks system
+   * useState, useEffect, useRef
+6. video-hooks
    * change the `videos` to hooks-based
    * a preview of custom/reusable hooks
