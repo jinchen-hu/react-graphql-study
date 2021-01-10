@@ -11,3 +11,6 @@
 6. video-hooks
    * change the `videos` to hooks-based
    * a preview of custom/reusable hooks
+7. songs
+   * overview of react-redux
+   * action, dispatch, reducer, state
