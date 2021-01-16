@@ -14,3 +14,6 @@
 7. songs
    * overview of react-redux
    * action, dispatch, reducer, state
+8. Blog
+   * Redux-thunk
+   * lodash
