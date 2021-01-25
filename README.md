@@ -17,3 +17,4 @@
 8. Blog
    * Redux-thunk
    * lodash
+9. Streams
