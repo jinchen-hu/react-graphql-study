@@ -19,3 +19,5 @@
    * lodash
 9. Streams
    * React-router
+10. Translate
+    * Context system
