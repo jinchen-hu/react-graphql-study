@@ -1,6 +1,6 @@
 import {
   ApolloClient, ApolloLink, HttpLink, InMemoryCache
-} from 'apollo-boost';
+} from '@apollo/client';
 import { getAccessToken } from '../auth';
 
 const httpUrl = 'http://localhost:9000/graphql';
